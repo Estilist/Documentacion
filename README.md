@@ -15,11 +15,11 @@
 
 
 ## 💜 Colaboradores:
-1. Fernando Haro Calvo.
-2. Andrea Rivas Gomez.
-3. Teresa Rivas Gomez.
-4. Danna G. Sandez Islas.
-5. Angel Daniel Solano M.
+- Angel Daniel Solano M.
+- Fernando Haro Calvo.
+- Andrea Rivas Gomez.
+- Teresa Rivas Gomez.
+- Danna G. Sandez Islas.
 
 ## 🧡 Desarrollo del Proyecto:
 - Investigación previa con pizarra virtual (proceso creativo):
